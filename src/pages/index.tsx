@@ -112,7 +112,7 @@ export default function Home() {
                   <MapPin className="h-5 w-5 text-rose-500 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-gray-800">
-                      Rehearsal Venue
+                      Rehearsal Venue & Schedule
                     </h3>
                     <p className="text-gray-600 text-sm">
                       Godfrey Residence
@@ -122,7 +122,13 @@ export default function Home() {
                       Dewittville, NY 14728
                     </p>
                     <p className="text-gray-500 text-xs mt-1">
-                      4:30 PM – 8:30 PM
+                      Arrive 3:30 PM - 3:45 PM
+                      <br />
+                      Ceremony 4:00 PM - 5:00 PM
+                      <br />
+                      Drive to Uma's
+                      <br />
+                      Dinner 5:30PM - 7:30 PM
                     </p>
                   </div>
                 </div>
