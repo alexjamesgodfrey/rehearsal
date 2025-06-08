@@ -124,7 +124,7 @@ export default function Home() {
                     <p className="text-gray-500 text-xs mt-1">
                       Arrive 3:30 PM - 3:45 PM
                       <br />
-                      Ceremony 4:00 PM - 5:00 PM
+                      Rehearsal 4:00 PM - 5:00 PM
                       <br />
                       Drive to Uma's
                       <br />
