@@ -120,6 +120,8 @@ export default function Home() {
                       5509 E Lake Rd
                       <br />
                       Dewittville, NY 14728
+                      <br />
+                      Semi-Formal Attire
                     </p>
                     <p className="text-gray-500 text-xs mt-1">
                       Arrive 3:30 PM - 3:45 PM
